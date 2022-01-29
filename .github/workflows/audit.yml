@@ -31,7 +31,7 @@ jobs:
         with:
           # Configuración para auditar sobre un sito estático
           # Lee más en:
-          # treosh/lg-ci-action options https://github.com/marketplace/actions/lighthouse-ci-action
+          # treosh/lg-ci-action options https://github.com/marketplace/actions/lighthouse-ci-actionssss
           runs: 5
           uploadArtifacts: true
           configPath: './.github/workflows/setup/lighthouse-audit.json'
